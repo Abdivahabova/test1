@@ -1,2 +1,2 @@
 # testt
-meni o'qib chiq
+meni o'qib chiq# yangiii
